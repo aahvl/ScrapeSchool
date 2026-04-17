@@ -21,7 +21,7 @@ Copy `.env.example` to `.env` and drop your key in:
 HACKCLUB_AI_KEY=your_key_here
 ```
 
-Get a key at **https://ai.hackclub.com** — it's free.
+Get a key at **https://ai.hackclub.com**, it's free.
 
 ---
 
